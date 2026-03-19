@@ -26,19 +26,19 @@
 
 ## Telas Aluno
 - Tela Area Aluno `[P1]`
-- Tela Fazer Avals
-- Tela de Devolutivas
-- Tela de SAQ e FAQ
+- Tela Fazer Avals `[P1]`
+- Tela de Devolutivas `[P1]`
+- Tela de suporte SAQ e FAQ `[P3]`
 
 ## Telas Professores
 - Tela Area Prof `[P1]`
 - Tela Criar e gerenciar Avals `[P1]`
-- Tela para fazer correcoes e devolutivas `[P2]`
+- Tela para fazer correcoes e devolutivas `[P1]`
 - Tela de SAQ e FAQ `[P3]`
 
 ## Telas Administradores
 - Tela Area Adm `[P1]`
-- Tela gerenciamento de credenciais e monitoramento `[P2]`
+- Tela gerenciamento de credenciais e monitoramento `[P1]`
 
 ## Telas Moderadores
 - Tela Area Mod `[P1]`
