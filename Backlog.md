@@ -1,45 +1,45 @@
-### Doc - Backlog
-- Priopridades variam de 1 a 3
-- 1 sendo maior prioridade e 3 menor prioridade
+### PV Doc - Backlog
+-PV Priopridades variam de 1 a 3
+-PV 1 sendo maior prioridade e 3 menor prioridade
 
-### Modelagem Banco de Dados
-- DER (Diagrama Entidade Relacionamento) `[P1]`
-- Prototipagem BD `[P2]`
+### PV Modelagem Banco de Dados
+-PV DER (Diagrama Entidade Relacionamento) `[P1]`
+-PV Prototipagem BD `[P2]`
 
-### UML
-- Add Use Case Mod `[P1]`
-- Finalizar Use Case Aluno
-- "  "     Professor `[P2]`
-- "  "     Administrador `[P2]`
-- "  "     Moderador `[P2]`
-- Diagramas de Classe Aluno `[P1]`
-- "             "    Professor `[P1]`
-- "             "    Administrador `[P1]`
-- "             "    Moderador `[P1]`
-- Diagramas de Sequencia Aluno `[P2]`
-- "             "       Professor `[P2]`
-- "             "       Administrador `[P2]`
-- "             "       Moderador `[P2]`
+###PV UML
+-PV Add Use Case Mod `[P1]`
+-PV Finalizar Use Case Aluno
+-PV "  "     Professor `[P2]`
+-PV "  "     Administrador `[P2]`
+-PV "  "     Moderador `[P2]`
+-PV Diagramas de Classe Aluno `[P1]`
+-PV "             "    Professor `[P1]`
+-PV "             "    Administrador `[P1]`
+-PV "             "    Moderador `[P1]`
+-PV Diagramas de Sequencia Aluno `[P2]`
+-PV "             "       Professor `[P2]`
+-PV "             "       Administrador `[P2]`
+-PV "             "       Moderador `[P2]`
 
-### UI UX
-- Tela Login `[P1]`
+###PV UI UX
+-PV Tela Login `[P1]`
 
-## Telas Aluno
-- Tela Area Aluno `[P1]`
-- Tela Fazer Avals `[P1]`
-- Tela de Devolutivas `[P1]`
-- Tela de suporte SAQ e FAQ `[P3]`
+##PV Telas Aluno
+-PV Tela Area Aluno `[P1]`
+-PV Tela Fazer Avals `[P1]`
+-PV Tela de Devolutivas `[P1]`
+-PV Tela de suporte SAQ e FAQ `[P3]`
 
-## Telas Professores
-- Tela Area Prof `[P1]`
-- Tela Criar e gerenciar Avals `[P1]`
-- Tela para fazer correcoes e devolutivas `[P1]`
-- Tela de SAQ e FAQ `[P3]`
+##PV Telas Professores
+-PV Tela Area Prof `[P1]`
+-PV Tela Criar e gerenciar Avals `[P1]`
+-PV Tela para fazer correcoes e devolutivas `[P1]`
+-PV Tela de SAQ e FAQ `[P3]`
 
-## Telas Administradores
-- Tela Area Adm `[P1]`
-- Tela gerenciamento de credenciais e monitoramento `[P1]`
+##PV Telas Administradores
+-PV Tela Area Adm `[P1]`
+-PV Tela gerenciamento de credenciais e monitoramento `[P1]`
 
-## Telas Moderadores
-- Tela Area Mod `[P1]`
-- Tela para vizualizar ticket de SAQ e responder FAQ `[P3]`
+##PV Telas Moderadores
+-PV Tela Area Mod `[P1]`
+-PV Tela para vizualizar ticket de SAQ e responder FAQ `[P3]`
